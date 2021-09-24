@@ -1,0 +1,21 @@
+.app-navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px;
+  background: #7e57c2;
+}
+.app-navbar h1 {
+  color: #fff;
+  cursor: pointer;
+}
+.app-navbar ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  list-style: none;
+}
+.app-navbar ul li a {
+  color: #fdfdfd;
+}
